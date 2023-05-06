@@ -1,4 +1,4 @@
-pycaret
+pycaret[full]
 pandas
 streamlit
 numpy
